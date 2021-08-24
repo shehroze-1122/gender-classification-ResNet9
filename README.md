@@ -1,0 +1,2 @@
+# Gender Classification ResNet9 CNN model
+A self explanatory Jupyter Notebook with step by step description in which I build a ResNet9 model to classify the gender using Kaggle [Dataset](https://www.kaggle.com/cashutosh/gender-classification-dataset) and achieved a test set accuracy of about `98%` accuracy
